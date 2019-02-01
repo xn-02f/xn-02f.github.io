@@ -9,6 +9,6 @@ You can see more about [`PunyCode`](https://en.wikipedia.org/wiki/Punycode).
 <br>
 <div align="center">
     <sub>
-        &copy; 2018 | <a href="https://xn--02f.com">xn--02f</a>
+        &copy; 2019 | <a href="https://xn--02f.com">xn-02f</a>
     </sub>
 </div>
